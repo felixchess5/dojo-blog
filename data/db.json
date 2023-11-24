@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog,",
+      "body": "Minim adipisicing deserunt sint reprehenderit esse excepteur duis laboris occaecat pariatur ipsum amet officia ut. Ipsum ex officia Lorem elit ipsum sint voluptate anim esse est laboris enim exercitation. Consectetur Lorem cupidatat incididunt nisi pariatur ex incididunt sint. In excepteur ut eiusmod anim anim consectetur laboris do nostrud cupidatat laborum ad aliqua minim. Nulla incididunt cillum labore Lorem laborum minim ea.",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Consequat non ullamco sunt voluptate excepteur laboris eiusmod in commodo labore. Aliquip commodo enim qui est nulla quis elit nisi. Dolor aute sint tempor aute. Pariatur consequat et et laboris cillum laborum aliquip.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "This is a sample text",
+      "body": "some random text",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "Another sample title",
+      "body": "some more body text",
+      "author": "mario",
+      "id": 4
+    }
+  ]
+}
